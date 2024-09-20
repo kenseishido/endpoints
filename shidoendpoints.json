@@ -1,0 +1,9 @@
+{
+  "endpoints": {
+    "swagger": "https://api.kenseishido.com/swagger/#/",
+    "rpc": "https://rpc.kenseishido.com",
+    "api": "https://api.kenseishido.com",
+    "grpc": "https://grpc.kenseishido.com",
+    "evm": "https://evm.kenseishido.com"
+  }
+}
